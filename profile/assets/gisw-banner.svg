@@ -37,8 +37,9 @@
 
   <!-- Wordmark -->
   <g transform="translate(370,0)">
-    <text x="0" y="150" class="name" font-size="56" fill="#ffffff">German International School</text>
-    <text x="0" y="214" class="name" font-size="56" fill="url(#gold)">Washington&#160;D.C.</text>
-    <text x="2" y="262" class="tag" font-size="24" fill="#aebbd6">Bilingual &#183; International &#183; PreK&#8211;12 &#183; Potomac, Maryland</text>
+    <text x="0" y="140" class="name" font-size="54" fill="#ffffff">German International School</text>
+    <text x="0" y="202" class="name" font-size="54" fill="url(#gold)">Washington&#160;D.C.</text>
+    <text x="2" y="248" class="sub" font-size="20" fill="#ffd84d">INDEPENDENT &#183; BILINGUAL &#183; WELTOFFEN</text>
+    <text x="2" y="284" class="tag" font-size="20" fill="#aebbd6">PreK&#8211;12 &#183; Potomac, Maryland &#183; Est. 1961</text>
   </g>
 </svg>
