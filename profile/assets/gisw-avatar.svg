@@ -1,37 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="GISW — German International School Washington D.C.">
   <defs>
-    <radialGradient id="bg" cx="0.5" cy="0.4" r="0.75">
-      <stop offset="0" stop-color="#1f2d4d"/>
-      <stop offset="0.6" stop-color="#16203a"/>
-      <stop offset="1" stop-color="#0b0f1a"/>
+    <radialGradient id="bg" cx="0.5" cy="0.4" r="0.78">
+      <stop offset="0" stop-color="#2d3a86"/>
+      <stop offset="0.6" stop-color="#273171"/>
+      <stop offset="1" stop-color="#1b2354"/>
     </radialGradient>
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#ffce00"/>
-      <stop offset="1" stop-color="#ffd84d"/>
-    </linearGradient>
     <style>
-      .mono { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-weight: 800; }
-      .lab  { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-weight: 700; letter-spacing: 3px; }
+      .mono { font-family: 'Segoe UI','Helvetica Neue',Arial,sans-serif; font-weight: 800; }
+      .lab  { font-family: 'Segoe UI','Helvetica Neue',Arial,sans-serif; font-weight: 700; letter-spacing: 3px; }
     </style>
   </defs>
 
-  <!-- Circle-safe: all content kept within the central safe area -->
+  <!-- Circle-safe: content kept within the central safe area -->
   <rect width="512" height="512" fill="url(#bg)"/>
-  <circle cx="256" cy="256" r="252" fill="none" stroke="#2b3a5e" stroke-width="2"/>
+  <circle cx="256" cy="256" r="250" fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="2"/>
 
-  <!-- German flag arc accent across the top of the safe circle -->
-  <g>
-    <path d="M 96 168 A 180 180 0 0 1 416 168" fill="none" stroke="#000000" stroke-width="16"/>
-    <path d="M 88 150 A 192 192 0 0 1 424 150" fill="none" stroke="#dd0000" stroke-width="16"/>
-    <path d="M 80 132 A 204 204 0 0 1 432 132" fill="none" stroke="#ffce00" stroke-width="16"/>
-  </g>
+  <!-- Brand-red accent arc across the top of the safe circle -->
+  <path d="M 92 158 A 188 188 0 0 1 420 158" fill="none" stroke="#e8112d" stroke-width="14" stroke-linecap="round"/>
 
   <!-- Monogram -->
-  <text x="256" y="300" text-anchor="middle" class="mono" font-size="150" fill="#ffffff">GISW</text>
+  <text x="256" y="296" text-anchor="middle" class="mono" font-size="156" fill="#ffffff">GISW</text>
 
   <!-- Wordmark -->
-  <text x="256" y="356" text-anchor="middle" class="lab" font-size="26" fill="url(#gold)">WASHINGTON D.C.</text>
+  <text x="256" y="352" text-anchor="middle" class="lab" font-size="25" fill="#ffffff">WASHINGTON D.C.</text>
 
   <!-- Motto -->
-  <text x="256" y="408" text-anchor="middle" class="lab" font-size="15" fill="#9fb0d0">INDEPENDENT &#183; BILINGUAL &#183; WELTOFFEN</text>
+  <text x="256" y="406" text-anchor="middle" class="lab" font-size="15" fill="#c9d0ef">INDEPENDENT &#183; BILINGUAL &#183; WELTOFFEN</text>
 </svg>

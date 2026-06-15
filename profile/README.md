@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="./assets/gisw-banner.svg" alt="German International School Washington D.C. — GISW" width="100%" />
+<img src="./assets/gisw-hero.svg" alt="German International School Washington D.C. — Independent. Bilingual. Weltoffen." width="820" />
 
 # German International School Washington D.C.
-
-### *Independent. Bilingual. Weltoffen.*
 
 **Bilingual education, rooted in German values, at home in Washington.**
 
