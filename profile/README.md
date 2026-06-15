@@ -4,6 +4,8 @@
 
 # German International School Washington D.C.
 
+### *Independent. Bilingual. Weltoffen.*
+
 **Bilingual education, rooted in German values, at home in Washington.**
 
 [![Website](https://img.shields.io/badge/Website-giswashington.org-1f2d4d?style=for-the-badge)](https://giswashington.org)
